@@ -1,0 +1,5 @@
+# files students' notebooks write, Jupyter/Python temp files
+.ipynb_checkpoints/
+__pycache__/
+output/
+.virtual_documents/
